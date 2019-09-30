@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CapstoneProjectApp</string>
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="status">Current Status: </string>
+    <string name="status_signed_in">Sign In!</string>
+    <string name="status_signed_out">Signed out!</string>
+    <string name="auth_failed">Sign-in failed</string>
+    <string name="loading">LOADING...</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_out_state">Trying to sign out</string>
+    <string name="sign_out_success">Signout SUCCESS!</string>
+    <string name="sign_out_failed">Signout failed</string>
+    <string name="name_field">Name</string>
+</resources>

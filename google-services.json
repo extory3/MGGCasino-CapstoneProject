@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "160936295459",
+    "firebase_url": "https://multiple-gambling-games-8c3fc.firebaseio.com",
+    "project_id": "multiple-gambling-games-8c3fc",
+    "storage_bucket": "multiple-gambling-games-8c3fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160936295459:android:2a9387a94f269ed510c596",
+        "android_client_info": {
+          "package_name": "com.example.capstoneprojectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160936295459-bt0sffevl10j417b1n588vimm7cnuj9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capstoneprojectapp",
+            "certificate_hash": "da6a90a0438d17da636aadbb6c8c021505a923a5"
+          }
+        },
+        {
+          "client_id": "160936295459-rlp7sf39f11ii79lv1uou4r0a4vfg91v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYT8oXMPyDznm359Flhr8t3wIXFsZE2OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160936295459-rlp7sf39f11ii79lv1uou4r0a4vfg91v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
