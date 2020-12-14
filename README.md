@@ -1,6 +1,5 @@
 # MGGCasino-CapstoneProject
-Project for capstone class.
-Took 3 months without knowing Java and Android development.
+A Capstone Project.
 
 ALL JAVA FILES ARE LOCATED IN: src/main/java/com/example/capstoneprojectapp
 
